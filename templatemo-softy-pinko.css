@@ -856,7 +856,7 @@ parallax & home seperator
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  background-image: url(work-process-bg.png);
+  background-image: url(..work-process-bg.png);
   z-index: 2;
   top: -20%;
   left: -20%;
